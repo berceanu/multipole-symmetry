@@ -1,15 +1,12 @@
 # multipole-symmetry
 
-Figure-generation source for the review article
+Figure-generation source for a review article by A. C. Berceanu and
+A. Del Dotto, to appear in *Symmetry* (MDPI), Special Issue "Symmetry in
+Beam-Plasma Physics."
 
-> A. C. Berceanu and A. Del Dotto, *A Multipole Classification of Wake
-> Perturbations in Laser- and Beam-Driven Plasma Wakefield Accelerators*,
-> Symmetry (2026), Special Issue "Symmetry in Beam-Plasma Physics."
-
-This repository contains the Python and TikZ source for the four figures of
-the review. The article itself contains no new experimental or simulation
-data; these scripts evaluate analytic models and reproduce or restyle
-published figures, with full attribution to the original works.
+The article itself contains no new experimental or simulation data; these
+scripts evaluate analytic models and reproduce or restyle published
+figures, with full attribution to the original works.
 
 ## Contents
 
